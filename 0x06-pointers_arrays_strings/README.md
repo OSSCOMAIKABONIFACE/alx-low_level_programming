@@ -1,2 +1,2 @@
-Solutions To Tasks On 
-Codes On 0x06-Pointers_Arrays_Strings
+Solutions Codes To Tasks On 
+On 0x06-Pointers_Arrays_Strings
