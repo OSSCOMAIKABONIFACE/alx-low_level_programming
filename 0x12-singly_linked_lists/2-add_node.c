@@ -16,7 +16,6 @@ if (n_item == NULL)
 return (NULL);
 
 n_item->str = strdup(str);
-
 	
 for (len = 0; str[len]; len++)
 		;
